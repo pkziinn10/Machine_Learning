@@ -104,11 +104,11 @@ pip install -r requirements.txt
 
 ## 📊 Dataset
 
-Nome: Online Retail
+- Nome: Online Retail
 
-Fonte: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
+- Fonte: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 
-Descrição:
+- Descrição:
 
 Contém transações entre dezembro de 2010 e dezembro de 2011.
 
@@ -120,39 +120,26 @@ InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID,
 
 ## ✅ Conclusão
 
-Este projeto demonstra como transformar um conjunto de dados com forte desbalanceamento em um problema de regressão eficiente e confiável. O uso de técnicas como:
+- Este projeto demonstra como transformar um conjunto de dados com forte desbalanceamento em um problema de regressão eficiente e confiável. O uso de técnicas como:
 
-Engenharia de atributos,
+- Engenharia de atributos,
 
-Balanceamento com NearMiss,
+- Balanceamento com NearMiss,
 
-Modelos como Random Forest,
+- Modelos como Random Forest,
 
-Validação cruzada com K-Fold,
+- Validação cruzada com K-Fold,
 
-Testes estatísticos (Wilcoxon),
+- Testes estatísticos (Wilcoxon),
 
-garantiu resultados mais robustos e generalizáveis. O Random Forest foi o modelo com melhor desempenho e significância estatística.
-
-## 🤝 Contribuição
-
-Pull requests são bem-vindos!
-Você pode contribuir de diversas formas:
-
-Sugerindo melhorias no código;
-
-Corrigindo bugs;
-
-Adicionando novos modelos;
-
-Melhorando a documentação.
+- garantiu resultados mais robustos e generalizáveis. O Random Forest foi o modelo com melhor desempenho e significância estatística.
 
 ## 📫 Contato
 
-Caso tenha dúvidas ou queira trocar ideias:
+- Caso tenha dúvidas ou queira trocar ideias:
 
-📧 Email: pedrinhokauan824@gmail.com
+- 📧 Email: pedrinhokauan824@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/pkziinn10
+- 💼 LinkedIn: www.linkedin.com/in/pkziinn10
 
-💻 GitHub: @pkziinn10
+- 💻 GitHub: @pkziinn10
