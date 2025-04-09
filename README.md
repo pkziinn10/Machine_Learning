@@ -93,12 +93,12 @@ Os modelos foram avaliados utilizando 10 folds de validação cruzada e os resul
 ```
 📌 Windows
 ```bash
-venv\Scripts\activate
+  venv\Scripts\activate
 ```
 
 3. **Instale os pacotes**:
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 4.**Execute o notebook ou script principal**:
   `main.ipynb` ou `main.py`
