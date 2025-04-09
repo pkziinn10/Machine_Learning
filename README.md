@@ -85,8 +85,8 @@ Os modelos foram avaliados utilizando 10 folds de validação cruzada e os resul
 2. **Crie um ambiente virtual**:
 
 ```bash
-`python -m venv venv`
-
+   python -m venv venv
+```
 📌 Linux/macOS
   `source venv/bin/activate`
 
