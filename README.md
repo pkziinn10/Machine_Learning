@@ -88,15 +88,18 @@ Os modelos foram avaliados utilizando 10 folds de validação cruzada e os resul
    python -m venv venv
 ```
 📌 Linux/macOS
-  `source venv/bin/activate`
-
+```bash
+  source venv/bin/activate
+```
 📌 Windows
-`venv\Scripts\activate`
+```bash
+venv\Scripts\activate
+```
 
 3. **Instale os pacotes**:
-
-`pip install -r requirements.txt`
-
+```bash
+pip install -r requirements.txt
+```
 4.**Execute o notebook ou script principal**:
   `main.ipynb` ou `main.py`
 
